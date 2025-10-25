@@ -1,3 +1,6 @@
 name = "cf-hell0-world"
 main = "src/index.js"
 compatibility_date = "2025-10-25"
+
+[triggers]
+crons = ["*/5 * * * *"]
